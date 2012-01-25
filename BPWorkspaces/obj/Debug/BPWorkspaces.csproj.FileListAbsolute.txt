@@ -1,0 +1,21 @@
+C:\Documents and Settings\rschott\My Documents\Visual Studio 2008\Projects\BPWorkspaces\BPWorkspaces\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rschott\My Documents\Visual Studio 2008\Projects\BPWorkspaces\BPWorkspaces\obj\Debug\BPWorkspaces.csproj.ResolveComReference.cache
+C:\Documents and Settings\rschott\My Documents\Visual Studio 2008\Projects\BPWorkspaces\BPWorkspaces\obj\Debug\BPWorkspaces.csproj.GenerateResource.Cache
+C:\Documents and Settings\rschott\My Documents\Visual Studio 2008\Projects\BPWorkspaces\BPWorkspaces\obj\Debug\com.simplesoft.bpworkspaces.CommandBar.resources
+C:\Documents and Settings\rschott\My Documents\Visual Studio 2008\Projects\BPWorkspaces\BPWorkspaces\obj\Debug\com.simplesoft.bpworkspaces.frmMain.resources
+C:\Documents and Settings\rschott\My Documents\Visual Studio 2008\Projects\BPWorkspaces\BPWorkspaces\bin\com.simplesoft.bpworkspaces.dll
+C:\Documents and Settings\rschott\My Documents\Visual Studio 2008\Projects\BPWorkspaces\BPWorkspaces\bin\com.simplesoft.bpworkspaces.pdb
+C:\Documents and Settings\rschott\My Documents\Visual Studio 2008\Projects\BPWorkspaces\BPWorkspaces\obj\Debug\com.simplesoft.bpworkspaces.dll
+C:\Documents and Settings\rschott\My Documents\Visual Studio 2008\Projects\BPWorkspaces\BPWorkspaces\obj\Debug\com.simplesoft.bpworkspaces.pdb
+C:\Library\Breakpoint-Workspaces\BPWorkspaces\bin\com.simplesoft.bpworkspaces.dll
+C:\Library\Breakpoint-Workspaces\BPWorkspaces\bin\com.simplesoft.bpworkspaces.pdb
+C:\Library\Breakpoint-Workspaces\BPWorkspaces\obj\Debug\ResolveAssemblyReference.cache
+C:\Library\Breakpoint-Workspaces\BPWorkspaces\obj\Debug\BPWorkspaces.csproj.ResolveComReference.cache
+C:\Library\Breakpoint-Workspaces\BPWorkspaces\obj\Debug\com.simplesoft.bpworkspaces.CommandBar.resources
+C:\Library\Breakpoint-Workspaces\BPWorkspaces\obj\Debug\com.simplesoft.bpworkspaces.frmMain.resources
+C:\Library\Breakpoint-Workspaces\BPWorkspaces\obj\Debug\ResGen.read.1.tlog
+C:\Library\Breakpoint-Workspaces\BPWorkspaces\obj\Debug\ResGen.write.1.tlog
+C:\Library\Breakpoint-Workspaces\BPWorkspaces\obj\Debug\com.simplesoft.bpworkspaces.dll
+C:\Library\Breakpoint-Workspaces\BPWorkspaces\obj\Debug\com.simplesoft.bpworkspaces.pdb
+C:\Library\Breakpoint-Workspaces\BPWorkspaces\obj\Debug\GenerateResource.read.1.tlog
+C:\Library\Breakpoint-Workspaces\BPWorkspaces\obj\Debug\GenerateResource.write.1.tlog
